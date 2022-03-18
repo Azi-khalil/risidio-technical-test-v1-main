@@ -62,7 +62,6 @@ export default {
       }else{
         this.col = 3
       }
-      console.log(this.col)
     },
   },
   computed: {
@@ -147,7 +146,7 @@ export default {
       gap: 10px;
     }
     .window-container{
-      padding: 20px 0px 90px 0px;
+      padding: 20px 72px 72px 72px;
       align-items: center;
       justify-content: center;
     }
